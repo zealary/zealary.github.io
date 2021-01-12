@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Zealary | Creative IT Services Provider</title>
+    <link>https://zealary.github.io/services/</link>
+    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Zealary | Creative IT Services Provider</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://zealary.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Development</title>
+      <link>https://zealary.github.io/services/software-development/</link>
+      <pubDate>Wed, 23 Dec 2020 15:58:10 +0600</pubDate>
+      
+      <guid>https://zealary.github.io/services/software-development/</guid>
+      <description>We aim towards providing services that increase productivity, boost revenues, and maximize customer engagement. In today’s technology-driven world, software development allows you to leverage low-risk solutions to gain high profits.</description>
+    </item>
+    
+    <item>
+      <title>Digital Marketing</title>
+      <link>https://zealary.github.io/services/digital-marketing/</link>
+      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      
+      <guid>https://zealary.github.io/services/digital-marketing/</guid>
+      <description>Gone are the days of depending on analog marketing. With majority of population having access to internet, digital marketing is indispensable in modern society. The digital marketplace is a place of convenience and speed.</description>
+    </item>
+    
+    <item>
+      <title>Mobile App Development</title>
+      <link>https://zealary.github.io/services/mobile-app-dev-04/</link>
+      <pubDate>Wed, 23 Dec 2020 20:56:42 +0600</pubDate>
+      
+      <guid>https://zealary.github.io/services/mobile-app-dev-04/</guid>
+      <description>Mobile computing has revolutionized the way we communicate in the last decade. On average a person spends about 3 hours daily on their mobile devices. This provides businesses opportunity to collect unprecedented amount of data from their users.</description>
+    </item>
+    
+    <item>
+      <title>Website Development</title>
+      <link>https://zealary.github.io/services/website-development/</link>
+      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
+      
+      <guid>https://zealary.github.io/services/website-development/</guid>
+      <description>Websites are the digital stores equivalent to physical stores. It allows your users to view your ideas, services, or catalog online and it helps you introduce your brand to the target audience.</description>
+    </item>
+    
+  </channel>
+</rss>
