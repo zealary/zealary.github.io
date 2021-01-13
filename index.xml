@@ -6,7 +6,7 @@
     <description>Recent content on Zealary | Creative IT Services Provider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2020 20:56:42 +0600</lastBuildDate><atom:link href="https://zealary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Dec 2020 15:55:44 +0600</lastBuildDate><atom:link href="https://zealary.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Software Development</title>
       <link>https://zealary.github.io/services/software-development/</link>
@@ -19,7 +19,7 @@
     <item>
       <title>Digital Marketing</title>
       <link>https://zealary.github.io/services/digital-marketing/</link>
-      <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
+      <pubDate>Thu, 24 Dec 2020 15:56:43 +0600</pubDate>
       
       <guid>https://zealary.github.io/services/digital-marketing/</guid>
       <description>Gone are the days of depending on analog marketing. With majority of population having access to internet, digital marketing is indispensable in modern society. The digital marketplace is a place of convenience and speed.</description>
@@ -28,10 +28,19 @@
     <item>
       <title>Mobile App Development</title>
       <link>https://zealary.github.io/services/mobile-app-dev-04/</link>
-      <pubDate>Wed, 23 Dec 2020 20:56:42 +0600</pubDate>
+      <pubDate>Fri, 25 Dec 2020 20:56:42 +0600</pubDate>
       
       <guid>https://zealary.github.io/services/mobile-app-dev-04/</guid>
       <description>Mobile computing has revolutionized the way we communicate in the last decade. On average a person spends about 3 hours daily on their mobile devices. This provides businesses opportunity to collect unprecedented amount of data from their users.</description>
+    </item>
+    
+    <item>
+      <title>Website Development</title>
+      <link>https://zealary.github.io/services/website-development/</link>
+      <pubDate>Sat, 26 Dec 2020 15:55:44 +0600</pubDate>
+      
+      <guid>https://zealary.github.io/services/website-development/</guid>
+      <description>Websites are the digital stores equivalent to physical stores. It allows your users to view your ideas, services, or catalog online and it helps you introduce your brand to the target audience.</description>
     </item>
     
     <item>
@@ -77,15 +86,6 @@
       
       <guid>https://zealary.github.io/blog/the-10-biggest-product-stories-of-2019/</guid>
       <description>Black Lines brand identity, by &amp;amp; Smith Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager.</description>
-    </item>
-    
-    <item>
-      <title>Website Development</title>
-      <link>https://zealary.github.io/services/website-development/</link>
-      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
-      
-      <guid>https://zealary.github.io/services/website-development/</guid>
-      <description>Websites are the digital stores equivalent to physical stores. It allows your users to view your ideas, services, or catalog online and it helps you introduce your brand to the target audience.</description>
     </item>
     
   </channel>
